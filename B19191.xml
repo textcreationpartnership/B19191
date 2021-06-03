@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties resolution concerning the Lord Major of London, now prisoner in the Tower, being committed thither by the command of both Houses of Parliament with His Majesties desires to all his loving subjects both in his kingdom of England, and dominion of Wales ... likewise exceeding joyfull news from Manchester and Hull...</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19191</idno><idno type="EEBO-CITATION">11184833</idno>
+  <idno type="VID">204863</idno>
+  <idno type="EEBO-PROQUEST">2240918190</idno>
+  
+            <idno type="STC">Wing C2754</idno>
+            <idno type="OCLC">11184833</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19191)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204863)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1437:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties resolution concerning the Lord Major of London, now prisoner in the Tower, being committed thither by the command of both Houses of Parliament with His Majesties desires to all his loving subjects both in his kingdom of England, and dominion of Wales ... likewise exceeding joyfull news from Manchester and Hull...</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 28, [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Ordered that this be printed and published. John Brown Cler. Parl."</note>
+                  <note>Imprint date from Wing.</note>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204863:1"/>
+            <pb facs="tcp:204863:1"/>
+            <p>THE KINGS MAIESTIES RESOLUTION Concerning the Lord Major of <hi>London,</hi> now Pri<g ref="char:EOLhyphen"/>soner in the Tower, being committed thither by the Com<g ref="char:EOLhyphen"/>mand of both Houses of PARLIAMENT.</p>
+            <p>With His Majesties Desires to all his loving Sub<g ref="char:EOLhyphen"/>jects, both in His Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> and the Obedience which he expects from them.</p>
+            <p>Likewise exceeding Joyfull News from <hi>Manche<g ref="char:EOLhyphen"/>ster</hi> and <hi>Hull,</hi> Declaring their prosperous Proceedings a<g ref="char:EOLhyphen"/>gainst the Cavaleers. And likewise the <hi>Parliaments</hi> Desires to all Justices both in <hi>England</hi> and <hi>Wales.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be printed and published.</p>
+                        <closer>
+                           <signed>John Brown Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <head>C R</head>
+               <figDesc>central circle flanked by the English lion on the left and the Scottish unicorn on the right and containing the initials of King Charles with a crown above them, all of these figures enclosed within a rectangle flanked by angel on the left and right</figDesc>
+            </figure>
+            <p>July 28. LONDON, Printed for <hi>I. Smith,</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204863:2"/>
+            <pb facs="tcp:204863:2"/>
+            <head>HIS MAJESTIES RESOLUTION</head>
+            <head type="sub">Concerning the Lord Maior of <hi>London,</hi> now Prisoner in the Tower.</head>
+            <p>HIs Majesty having received infor<g ref="char:EOLhyphen"/>mation, that the Lord Major of <hi>London</hi> was imprisoned in the Tower, by the Command of both Houses of <hi>Parliament,</hi> for Executing His Majesties Writ and lawfull Commands, was not a little moved at the arrivall of those Ty<g ref="char:EOLhyphen"/>dings; but His Majesty taking it into his Princely and gracious consideration, forth<g ref="char:EOLhyphen"/>with Resolved, to make both His Houses
+<pb facs="tcp:204863:3"/>of <hi>Parliament</hi> acquainted with it, which he did accordingly, as followeth.</p>
+            <p>That the committing of the Lord Ma<g ref="char:EOLhyphen"/>jor of <hi>Loudon</hi> to prison, for executing his Majesties Writ and lawfull Commands, were but ill prologues to a Petition which might compose the miserable Di<g ref="char:EOLhyphen"/>stractions of the Kingdom.</p>
+            <p>His Majesty having also received many Petitions from the Members of the Ho<g ref="char:EOLhyphen"/>nourable Houses of <hi>Parliament,</hi> concerning the <hi>Militia</hi> of the Kingdom, being put in<g ref="char:EOLhyphen"/>ta the Command of those persons in whom the <hi>Parliament</hi> might confide.</p>
+            <p>His Majesty for some paaticular Rea<g ref="char:EOLhyphen"/>sons denyed to grant it absolutely, reser<g ref="char:EOLhyphen"/>ving some part to himself, to rest at his own dispos<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, for which Cause the <hi>Parlie<g ref="char:EOLhyphen"/>ment</hi> (after many petitions) finding it to be both for the security of his Majesty, and the good of the Subject, to put the King<g ref="char:EOLhyphen"/>dom in a posture of Defence, by the Au<g ref="char:EOLhyphen"/>thority of <hi>Parliament</hi> elected Officers, as Colonels, Lieutenant Colonels, Serjeant
+<pb facs="tcp:204863:3"/>Majorr, Captains, and all other Officers, both discreet in Iudgment, of untainted and unquestioned Loyalty, and of known and experienced ability, put the <hi>Militia</hi> of the Kingdom into their tuition, con<g ref="char:EOLhyphen"/>trary to His Majesties liking, and with<g ref="char:EOLhyphen"/>out his Assent thereunto.</p>
+            <p>For which cause his Majesty to stop and hinder such Proceedings, sent out this Command following.</p>
+            <p>Whereas by the Statute made in the 7. year of <hi>K.E.</hi> 1. the Prelates, Earls, Barons, and Commonalty of the Realm affirmed in <hi>Parliament,</hi> that to the King it belong<g ref="char:EOLhyphen"/>eth, and his part, it is by his Royall Seig<g ref="char:EOLhyphen"/>niority straightly to defend wearing of Armour, and all other Force, against the peace at all times, when it shall please him, and to punish them which shall doe the contrary, according to the Lawes and Usages of the Realm.</p>
+            <p>We do therfore by this Our <hi>Proclama<g ref="char:EOLhyphen"/>tion</hi> expreslyy command all Our Sheriffs, and all Colonels, Lieutenant Colonels, Ser<g ref="char:EOLhyphen"/>jeant Majors, Capt. and Officers belonging
+<pb facs="tcp:204863:4"/>to the Trayned Bands of this our King<g ref="char:EOLhyphen"/>dom, &amp;c. Not to muster, leavie, raise, or march, or to summon, or warn, upon any Warrant, Order, or Ordinance, from one or both Our Houses of <hi>Parliament</hi> (whereto we have not, nor shall not give Our Ex<g ref="char:EOLhyphen"/>presse consent) to any of Our Trayned Bands or other Forces, to Raise, Muster, march, or Exercise, without Expresse War<g ref="char:EOLhyphen"/>rant from Our hand, or Warrant from Our Sheriffe of the County, grounded upon a particular Writ to that purpose, under Our great Seal.</p>
+            <p>And in Case any of Our Trayned Bands shall Rise, or gather together, contrary to this Our Command, We shall then call them in due time to a strict account, and proceed Legally against them as Violaters of the Laws, and Disturbers of the Peace of the Kingdom.</p>
+            <p>This is the due Obedience that His Ma<g ref="char:EOLhyphen"/>jesty expects from all his loving Subjects, and here is the Penalty, that attends the Denyall His Majesties high Displeasure, and the severity of Law, both which is
+<pb facs="tcp:204863:4"/>certain Ruine; but when the High Court of <hi>Parliament</hi> Declares their proceedings to be Legall and Loyall, tending both to the preservation of his Majesties Honour, and the generall good of the Subject, with all Declaring all those that shall disobey their Commands, to be Enemies to the King, and Destroyers of the Kingdom, be<g ref="char:EOLhyphen"/>twixt these two Extreams; what shall we do, if wee take Arms against His Majesty, we fight against God, our llawfull Sove<g ref="char:EOLhyphen"/>reign is Gods <hi>Vice-gerent.</hi> If we against the <hi>Parliament</hi> take Arms, we wound our selvs our wives and children.</p>
+            <p>
+               <hi>WHeras severall Commissions of Array have lately issned out under the Great Seal of <hi>England,</hi> into the severall Counties of <hi>Leicester, Worcester,</hi> and other Counties of this Realm, tending to the great danger of his Majesty, and the disturbance of the peace of this Kingdome: For the preventing thereof, and of the Execution, and issuing out of any such Commissions for the time to come, It is or<g ref="char:EOLhyphen"/>dered by the Lords and Commons, That the Jud<g ref="char:EOLhyphen"/>ges and Justices of Assize, of the severall
+<pb facs="tcp:204863:5"/>Counties of <hi>England</hi> and <hi>Wales,</hi> bee required in their severall Circuits, at the Assizes and great Sessions to be next held for each County, within th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Realm, and the Dominion of Wales, in open Court, and in their severall Charges to be delivered to the Grand-Juries at the said Assizes, openly to declare and publish, that the said Lords and Commons have upon mature deliberation, Resolved upon the question, That the said Commissions of Array are against Law, and against the Liberty and property of the Subject: And that all those that are A<g ref="char:EOLhyphen"/>ctors in putting the same in execution, shall be esteemed Disturbers of the peace of this King<g ref="char:EOLhyphen"/>dome, and Betrayers of the Liberty of the Sub<g ref="char:EOLhyphen"/>ject.</hi>
+            </p>
+            <closer/>
+            <postscript>
+               <p>Ordered that this be printed and published.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Iohn Brown Cler, Parl.</item>
+                        <item>Hen. Elsing Cler. Parl. D. C.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
